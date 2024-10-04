@@ -19,3 +19,8 @@ Questi i comandi di base, poi ne aggiungeremo di altri mano mano, tipo:
 - CTRL + 6: transizione
 
 Sarebbe fico che l'user potesse personalizzare il tutto.
+
+---
+Link utili per i dati tecnici della formattazione:
+- https://www.nfi.edu/screenplay-format/
+- https://jotterpad.app/how-to-format-a-screenplay/
