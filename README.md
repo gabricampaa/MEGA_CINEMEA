@@ -24,3 +24,4 @@ Sarebbe fico che l'user potesse personalizzare il tutto.
 **Link utili per i dati tecnici della formattazione**:
 - https://www.nfi.edu/screenplay-format/
 - https://jotterpad.app/how-to-format-a-screenplay/
+- https://www.sceneggiatureitaliane.it/
