@@ -25,3 +25,5 @@ Sarebbe fico che l'user potesse personalizzare il tutto.
 - https://www.nfi.edu/screenplay-format/
 - https://jotterpad.app/how-to-format-a-screenplay/
 - https://www.sceneggiatureitaliane.it/
+
+- https://github.com/OpenScreenplayFormat/osf-sdk
